@@ -1,5 +1,5 @@
 # Impact of early life antibiotic and probiotic treatment on gut microbiome and resistome of very-low-birth-weight preterm infants
-Currently a pre-print: https://www.biorxiv.org/content/10.1101/2024.12.18.629205.abstract
+click [here](https://doi.org/10.1038/s41467-025-62584-2) for this paper
 
-Authors:
-Raymond Kiu, Elizabeth M Darby, Cristina Alcon-Giner, Antia Acuna-Gonzalez, Anny Camargo, Lisa E Lamberte, Sarah Phillips, Kathleen Sim, Alexander G Shaw, Paul Clarke, Willem van Schaik, J Simon Kroll, Lindsay J Hall
+To cite this article:
+#### Kiu, R., Darby, E.M., Alcon-Giner, C. et al. Impact of early life antibiotic and probiotic treatment on gut microbiome and resistome of very-low-birth-weight preterm infants. Nat Commun 16, 7569 (2025). https://doi.org/10.1038/s41467-025-62584-2
